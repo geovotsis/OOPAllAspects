@@ -1,0 +1,6 @@
+C:\Users\Giwrgos\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+C:\Users\Giwrgos\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\Giwrgos\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\Giwrgos\source\repos\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\Giwrgos\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\Giwrgos\source\repos\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
